@@ -5,7 +5,7 @@ Celia Team takes your privacy seriously. To better protect your privacy Celia Te
 
 ## Collection of Routine Information
 
-This APP track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+This APP track basic information about their users. This information includes, but is not limited to app details, timestamps and referring pages. None of this information can personally identify specific. The information that we request is retained on your device and is not collected by us in any way.
 
 
 ## Cookies
