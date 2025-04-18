@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Celia Team built the Celia app as a free app. This SERVICE is provided by us at no cost and is intended for use as is.
+Celia Team built the Celia app as a free app. This service is provided by us at no cost and is intended for use as is.
 
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our app.
+This page is used to inform app users and/or website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our app.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we may collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Celia App, unless otherwise defined in this Privacy Policy.
 
